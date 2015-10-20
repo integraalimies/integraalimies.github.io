@@ -1,0 +1,3 @@
+[submodule "viivaintegraalipeli"]
+	path = viivaintegraalipeli
+	url = https://github.com/integraalimies/viivaintegraalipeli.git
